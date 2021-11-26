@@ -1,0 +1,13 @@
+git init
+git config --global user.name "Sri"
+git config --global user.email "Srinivasaragav@gmail.com"
+touch "Filename.txt"
+vi "filename.txt"
+git status
+git add "filename"
+git commit -m "message" filename
+git status
+git log
+git show (with commit id)
+git ls-files
+
